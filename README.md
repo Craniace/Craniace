@@ -26,7 +26,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
+- :zap: I solve problems on CodeChef and read tech articles in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakabar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
 
