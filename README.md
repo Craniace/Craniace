@@ -44,15 +44,14 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-https://holopin.me/craniace)](https://holopin.io/@craniace
+
 
 ---
 
 ### :fire: My Stats :
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craniace&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+<a href="https://holopin.me/craniace)](https://holopin.io/@craniace"></a>
 
