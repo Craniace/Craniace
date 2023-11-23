@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a 2nd Year B.Tech  student contributing to frontend building web applications and machine learning projects.
+- :telescope: I’m a 3rd Year B.Tech  student contributing to frontend building web applications and machine learning projects.
 
 - :seedling: Exploring Technical Content Writing.
 
