@@ -24,9 +24,9 @@
 I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a 3rd Year B.Tech  student contributing to frontend building web applications and machine learning projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Machine Learning.
 
-- :zap: I solve problems on CodeChef and read tech articles in my free time.
+- :zap: I solve problems on LeetCode and read tech articles in my free time.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakabar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
 
