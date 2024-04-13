@@ -28,7 +28,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I solve problems on LeetCode and read tech articles in my free time.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakabar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
 
 ---
 
