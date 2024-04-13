@@ -28,7 +28,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I solve problems on CodeChef and read tech articles in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakabar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakabar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-joshi-865185237/)
 
 ---
 
@@ -42,16 +42,17 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
 
 ---
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craniace&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craniace&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+</div>
 
 ---
-[![An image of @craniace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craniace)](https://holopin.io/@craniace)
 
+[![An image of @craniace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craniace)](https://holopin.io/@craniace)
