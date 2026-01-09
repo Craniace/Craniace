@@ -48,5 +48,6 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 
 </div>
+---
 
 [![An image of @craniace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craniace)](https://holopin.io/@craniace)
