@@ -46,8 +46,8 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-
 </div>
+
 ---
 
 [![An image of @craniace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craniace)](https://holopin.io/@craniace)
