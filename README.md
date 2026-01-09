@@ -49,14 +49,4 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 </div>
 
----
-
-### :fire: My Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craniace&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-</div>
-
----
-
 [![An image of @craniace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craniace)](https://holopin.io/@craniace)
